@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a PhD student 👩‍🔬 creating computer models of the 🫀
+I'm a PhD student 👩‍🔬 creating computer models of the 🫀
 
 
 <!--
